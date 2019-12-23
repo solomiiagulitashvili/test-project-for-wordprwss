@@ -1,4 +1,4 @@
-    <footer>
+ <footer>
       <div class="dark">
         <div class="menu-footer">
           <ul class="menu-footer-list">
@@ -15,26 +15,26 @@
         <div class="contacts-footer">
           <ul class="contacts-footer-list">
             <li>
-              <img src="<?php echo get_template_directory_uri().'img/adress.png';?>" class="icon" width="8px" height="14px" />
+              <img src="<?php echo get_template_directory_uri()?>/img/adress.png" class="icon" width="8px" height="14px" />
               Адреса:
               <br />
               м. Львів, вул. Котлярська, 2
             </li>
             <li>
-              <img src="<?php echo get_template_directory_uri().'img/skype.png';?>" class="icon" width="14px" height="13px" />
+              <img src="<?php echo get_template_directory_uri()?>/img/skype.png" class="icon" width="14px" height="13px" />
               Skype:
               <br />
               flora2115
             </li>
             <li>
-              <img src="<?php echo get_template_directory_uri().'img/phone.png';?>" class="icon" width="15px" height="15px" />
+              <img src="<?php echo get_template_directory_uri()?>/img/phone.png" class="icon" width="15px" height="15px" />
               (032) 297 16-45
               <br />
               (067)-756-58-76
             </li>
           </ul>
           <div class="director">
-            <img src="<?php echo get_template_directory_uri().'img/director.png';?>">
+            <img src="<?php echo get_template_directory_uri()?>/img/director.png">
             <p>Директор:
               <br>
               Прізвище, імя, по-батькові</p>
@@ -46,10 +46,10 @@
             <br>
             та підписуйтесь на цікаві новини</p>
           <ul class="social-list">
-            <li><a href="#"><img src="img/ok.png"></a></li>
-            <li><a href="#"><img src="img/google.png"></a></li>
-            <li><a href="#"><img src="img/facebook.png"></a></li>
-            <li><a href="#"><img src="img/vk.png"></a></li>
+            <li><a href="#"><img src="<?php echo get_template_directory_uri()?>/img/ok.png"></a></li>
+            <li><a href="#"><img src="<?php echo get_template_directory_uri()?>/img/google.png"></a></li>
+            <li><a href="#"><img src="<?php echo get_template_directory_uri()?>/img/facebook.png"></a></li>
+            <li><a href="#"><img src="<?php echo get_template_directory_uri()?>/img/vk.png"></a></li>
           </ul>
         </div>
       </div>

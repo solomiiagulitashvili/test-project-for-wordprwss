@@ -12,13 +12,13 @@
       <div class="gallery">
         <figure>
           <div class="top-hotel">
-            <img src="<?php echo get_template_directory_uri().'./img/stars.png';?>" />
-            <img src="<?php echo get_template_directory_uri().'./img/user.png';?>" class="user" />
+            <img src="<?php echo get_template_directory_uri()?>/img/stars.png" />
+            <img src="<?php echo get_template_directory_uri()?>/img/user.png" class="user" />
             <span>78</span>
-            <img src="<?php echo get_template_directory_uri().'./img/like.png';?>" />
+            <img src="<?php echo get_template_directory_uri()?>/img/like.png" />
             <span>15</span>
           </div>
-          <img src="<?php echo get_template_directory_uri().'./img/hotel-1.jpg';?>" class="main-img" />
+          <img src="<?php echo get_template_directory_uri()?>/img/hotel-1.jpg" class="main-img" />
           <figcaption>
             <div class="description">
               <div class="hotel-name">
@@ -27,7 +27,7 @@
               </div>
 
               <div class="price">
-                <img src="<?php echo get_template_directory_uri().'./img/fire.png';?>" />
+                <img src="<?php echo get_template_directory_uri()?>/img/fire.png" />
                 <p>від 500 $</p>
               </div>
             </div>
@@ -43,13 +43,13 @@
         </figure>
         <figure>
           <div class="top-hotel">
-            <img src="<?php echo get_template_directory_uri().'./img/stars.png';?>" />
-            <img src="<?php echo get_template_directory_uri().'./img/user.png';?>" class="user" />
+            <img src="<?php echo get_template_directory_uri()?>/img/stars.png" />
+            <img src="<?php echo get_template_directory_uri()?>/img/user.png" class="user" />
             <span>78</span>
-            <img src="<?php echo get_template_directory_uri().'./img/like.png';?>" />
+            <img src="<?php echo get_template_directory_uri()?>/img/like.png" />
             <span>15</span>
           </div>
-          <img src="<?php echo get_template_directory_uri().'./img/hotel-1.jpg';?>" class="main-img" />
+          <img src="<?php echo get_template_directory_uri()?>/img/hotel-2.jpg" class="main-img" />
           <figcaption>
             <div class="description">
               <div class="hotel-name">
@@ -58,7 +58,7 @@
               </div>
         
               <div class="price">
-                <img src="<?php echo get_template_directory_uri().'./img/fire.png';?>" />
+                <img src="<?php echo get_template_directory_uri()?>/img/fire.png" />
                 <p>від 500 $</p>
               </div>
             </div>
@@ -74,13 +74,13 @@
         </figure>
         <figure>
           <div class="top-hotel">
-            <img src="<?php echo get_template_directory_uri().'./img/stars.png';?>" />
-            <img src="<?php echo get_template_directory_uri().'./img/user.png';?>" class="user" />
+            <img src="<?php echo get_template_directory_uri()?>/img/stars.png" />
+            <img src="<?php echo get_template_directory_uri()?>/img/user.png" class="user" />
             <span>78</span>
-            <img src="<?php echo get_template_directory_uri().'./img/like.png';?>" />
+            <img src="<?php echo get_template_directory_uri()?>/img/like.png" />
             <span>15</span>
           </div>
-          <img src="<?php echo get_template_directory_uri().'./img/hotel-1.jpg';?>" class="main-img" />
+          <img src="<?php echo get_template_directory_uri()?>/img/hotel-3.jpg" class="main-img" />
           <figcaption>
             <div class="description">
               <div class="hotel-name">
@@ -89,7 +89,7 @@
               </div>
         
               <div class="price">
-                <img src="<?php echo get_template_directory_uri().'./img/fire.png';?>" />
+                <img src="<?php echo get_template_directory_uri()?>/img/fire.png" />
                 <p>від 500 $</p>
               </div>
             </div>
@@ -105,13 +105,13 @@
         </figure>
         <figure>
           <div class="top-hotel">
-            <img src="<?php echo get_template_directory_uri().'./img/stars.png';?>" />
-            <img src="<?php echo get_template_directory_uri().'./img/user.png';?>" class="user" />
+            <img src="<?php echo get_template_directory_uri()?>/img/stars.png" />
+            <img src="<?php echo get_template_directory_uri()?>/img/user.png" class="user" />
             <span>78</span>
-            <img src="<?php echo get_template_directory_uri().'./img/like.png';?>" />
+            <img src="<?php echo get_template_directory_uri()?>/img/like.png" />
             <span>15</span>
           </div>
-          <img src="<?php echo get_template_directory_uri().'./img/hotel-1.jpg';?>" class="main-img" />
+          <img src="<?php echo get_template_directory_uri()?>/img/hotel-1.jpg" class="main-img" />
           <figcaption>
             <div class="description">
               <div class="hotel-name">
@@ -120,7 +120,7 @@
               </div>
         
               <div class="price">
-                <img src="<?php echo get_template_directory_uri().'./img/fire.png';?>" />
+                <img src="<?php echo get_template_directory_uri()?>/img/fire.png" />
                 <p>від 500 $</p>
               </div>
             </div>
